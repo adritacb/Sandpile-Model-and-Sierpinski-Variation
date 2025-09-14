@@ -1,1 +1,0 @@
-# Sandpile-Model-and-Sierpinski-Variation
